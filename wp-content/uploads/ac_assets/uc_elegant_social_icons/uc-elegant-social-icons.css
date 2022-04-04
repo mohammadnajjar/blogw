@@ -1,0 +1,58 @@
+494949
+.uc-elegant-social-icons *{
+	margin:0;
+	padding:0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.uc-elegant-social-icons {
+	position:relative;
+	width:100%;
+	text-align:center;
+}
+.uc-elegant-social-icons .uc-social-icons-box{
+	display:inline-block;
+}
+.uc-elegant-social-icons .uc-social-icons-box a{
+	font-size:15px;
+    display: block;
+	padding:7px 2px;
+	border:2px solid transparent;
+    position: relative;
+    text-decoration: none;
+    vertical-align: middle;
+	font-weight:400;
+}
+.uc-elegant-social-icons .uc-social-icons-box:hover a{
+	border-color: inherit !important;
+}
+.uc-elegant-social-icons .uc-social-icons-box span.bbb{
+	text-transform:capitalize;
+	display:inline-block;
+	margin-left:7px;
+}
+
+
+@media only screen and (max-width: 800px) {
+	.uc-elegant-social-icons .uc-social-icons-box a{ font-size:14px; margin:0 2px 3px;}
+	.uc-elegant-social-icons .uc-social-icons-box a span{ margin-left:2px;}
+}
+@media only screen and (max-width: 580px) {
+	.uc-elegant-social-icons .uc-social-icons-box{ width: 33%; margin: 0 -2px 1px;}
+}
+@media only screen and (max-width: 413px) {
+	.uc-elegant-social-icons .uc-social-icons-box{ width: 50%;}
+}
+
+
+
+
+
+
+
+
+
+
+
+

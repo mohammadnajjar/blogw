@@ -1,0 +1,73 @@
+
+.uc_fancy_flat_social_button_animation *{
+	margin:0;
+	padding:0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.uc_fancy_flat_social_button_animation {
+	position:relative;
+	width:100%;
+	text-align:center;
+}
+.uc_fancy_flat_social_button_animation .uc_social-icon li a{ color:#74d4b3;}
+
+
+.uc_fancy_flat_social_button_animation .uc_social-icon {
+    text-align: center;
+    transform: translateZ(0px);
+}
+.uc_fancy_flat_social_button_animation .uc_social-icon h2 {
+    color: #fff;
+    font-family: 'Raleway Dots', cursive;
+    font-size: 2.4em;
+    margin: 80px 0 40px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.uc_fancy_flat_social_button_animation .uc_social-icon li {
+    display: inline-block;
+    height: 140px;
+    list-style: outside none none;
+    margin: 20px;
+    width: 120px;
+}
+.uc_fancy_flat_social_button_animation .uc_social-icon li div{
+    background-color: #fff;
+    color: #74d4b3;
+    font-size: 3.4em;
+    height: 120px;
+    line-height: 120px;
+    text-align: center;
+    transition: all 0.5s ease 0s;
+    width: 120px;
+}
+.uc_fancy_flat_social_button_animation .uc_social-icon li div:hover {
+    border-radius: 100px;
+    transform: rotate(360deg);
+}
+.uc_fancy_flat_social_button_animation .uc_social-icon li >span {
+    color: #fff;
+    display: block;
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 1.2em;
+    height: 20px;
+    padding: 15px 0;
+    text-align: center;
+    text-transform: uppercase;
+    width: 120px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
